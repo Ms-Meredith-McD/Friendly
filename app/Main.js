@@ -4,7 +4,7 @@ import { useImmerReducer } from 'use-immer'
 import { BrowserRouter, Routes, Route } from "react-router-dom"
 import Axios from 'axios'
 import { CSSTransition } from "react-transition-group"
-Axios.defaults.baseURL = process.env.BACKENDURL || ""
+Axios.defaults.baseURL = process.env.BACKENDURL || "https://friendly-backend-api.onrender.com"
 
 import StateContext from './StateContext'
 import DispatchContext from './DispatchContext'

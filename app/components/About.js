@@ -5,9 +5,8 @@ function About() {
   return (
     <Page title="About Us">
       <h2>About Us!!!!!!</h2>
-      <p className="lead text-muted">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis dolorum labore quisquam vel id dicta fuga! Ducimus, quo. Dolore commodi aliquid error veritatis consequuntur, excepturi cumque fuga eum incidunt doloremque?</p>
-      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. At qui enim rem totam voluptatum. Aut saepe temporibus, facilis ex a iste expedita minima dolorum dicta doloribus libero aliquid, quae maxime? Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat suscipit beatae eum, est soluta ducimus ratione et impedit sapiente, nihil, atque dignissimos adipisci? Totam atque officia quis voluptates sed veniam?</p>
-      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Expedita voluptates quisquam possimus tenetur, dicta enim rerum quis, quaerat id nobis provident quo dolorum sapiente temporibus facere non repellendus consequatur cupiditate!</p>
+      <p className="lead text-muted">I earned a Full Stack Coding Certificate in Spring of 2024 and I wanted to solidify an expand upon my React knowledge.  I signed up for a Udemy class called "React for the Rest of Us" and used the lessons and templates provided as well as added my own stylings, words, and unique code, because of the the code in the lessons is out of date or provided results I did not want. 
+      </p>
     </Page>
   )
 }
